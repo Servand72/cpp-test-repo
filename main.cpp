@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-   cout << "Hello, Git!" << endl;
+   cout << "Hello, Git!" <<""Hello, Sergey!"" endl;
 returns 0;
 }
